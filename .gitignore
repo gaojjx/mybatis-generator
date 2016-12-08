@@ -1,0 +1,6 @@
+#IntelliJ
+.idea/
+mybatis-demo.iml
+
+# Generated files
+target/
